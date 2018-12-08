@@ -1,0 +1,6 @@
+/app/src/assets
+/node_modules/
+/build/
+/config/
+/dist/
+/test/unit/coverage/
